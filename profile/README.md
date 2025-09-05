@@ -8,11 +8,13 @@ This is where all the very advanced technology behind **Ukulele Tuesday** lives.
 
 ## What we've built
 
-**[Songbook Generator](https://github.com/UkuleleTuesday/songbook-generator)** - Makes PDF songbooks from our songs. [Try it here](https://ukuleletuesday.github.io/songbook-generator/).
+**[Website](https://github.com/UkuleleTuesday/website)** - The main site at [ukuleletuesday.ie](https://ukuleletuesday.ie) (warning: smells off Wordpress legacy/bloat)
+
+**[Songbook Generator](https://github.com/UkuleleTuesday/songbook-generator)** - Makes PDF songbooks from our songs. Automagic rebuilds on song sheet changes. [Try the live demo here](https://ukuleletuesday.github.io/songbook-generator/).
 
 **[Songbooks](https://github.com/UkuleleTuesday/songbooks)** - Serves songbooks online (generated from the generator). [Live here](https://songbooks.ukuleletuesday.ie/).
 
-**[Website](https://github.com/UkuleleTuesday/website)** - The main site at [ukuleletuesday.ie](https://ukuleletuesday.ie).
+**[Stags](https://github.com/UkuleleTuesday/stats)** - Stats for nerds.
 
 **[Break Page](https://github.com/UkuleleTuesday/break-page)** - For when we need a break.
 
