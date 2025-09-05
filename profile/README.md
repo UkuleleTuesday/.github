@@ -8,9 +8,9 @@ This is where all the very advanced technology behind **Ukulele Tuesday** lives.
 
 ## Who are we
 
-We're a bunch of nerds part of the Ukulele Tuesday community, helping maintain the tech behind the scenes. We look like this:
+We're a bunch of nerds part of the Ukulele Tuesday community, helping maintain the tech behind the scenes. Here is documentary footage of us hard at work:
 
-<img width="270" height="187" alt="image" src="https://github.com/user-attachments/assets/7ec92d38-433d-485e-98b6-fcffff9de24f" />
+![no idea](https://giphy.com/embed/SRx5tBBrTQOBi)
 
 
 ## What we've built
