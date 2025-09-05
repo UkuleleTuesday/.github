@@ -14,7 +14,7 @@ This is where all the very advanced technology behind **Ukulele Tuesday** lives.
 
 **[Songbooks](https://github.com/UkuleleTuesday/songbooks)** - Serves songbooks online (generated from the generator). [Live here](https://songbooks.ukuleletuesday.ie/).
 
-**[Stags](https://github.com/UkuleleTuesday/stats)** - Stats for nerds.
+**[Stats](https://github.com/UkuleleTuesday/stats)** - Stats for nerds. [Live here](https://ukuleletuesday-stats.streamlit.app/).
 
 **[Break Page](https://github.com/UkuleleTuesday/break-page)** - For when we need a break.
 
