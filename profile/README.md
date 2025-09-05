@@ -6,6 +6,13 @@ This is where all the very advanced technology behind **Ukulele Tuesday** lives.
 
 (We meet up to play ukulele and play concerts too sometimes, that's pretty much it!)
 
+## Who are we
+
+We're a bunch of nerds part of the Ukulele Tuesday community, helping maintain the tech behind the scenes. We look like this:
+
+<img width="270" height="187" alt="image" src="https://github.com/user-attachments/assets/7ec92d38-433d-485e-98b6-fcffff9de24f" />
+
+
 ## What we've built
 
 **[Website](https://github.com/UkuleleTuesday/website)** - The main site at [ukuleletuesday.ie](https://ukuleletuesday.ie) (warning: smells off Wordpress legacy/bloat)
