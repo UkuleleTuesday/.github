@@ -10,7 +10,7 @@ This is where all the very advanced technology behind **Ukulele Tuesday** lives.
 
 We're a bunch of nerds part of the Ukulele Tuesday community, helping maintain the tech behind the scenes. Here is documentary footage of us hard at work:
 
-![no idea](https://giphy.com/embed/SRx5tBBrTQOBi)
+![no idea](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZneDlvdHNvZW1hbWJvcGZodHJpYWRkYml3d2Frc2NwZ2d0eHhhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SRx5tBBrTQOBi/giphy.gif)
 
 
 ## What we've built
