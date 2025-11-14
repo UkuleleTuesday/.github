@@ -21,7 +21,7 @@ We're a bunch of nerds part of the Ukulele Tuesday community, helping maintain t
 
 **[Songbooks](https://github.com/UkuleleTuesday/songbooks)** - Serves songbooks online (generated from the generator). [Live here](https://songbooks.ukuleletuesday.ie/).
 
-**[Datasets](https://github.com/UkuleleTuesday/datasets)** - Datasets and stats for nerds. [Live here](https://ukuleletuesday-stats.streamlit.app/).
+**[Datasets](https://github.com/UkuleleTuesday/datasets)** - Datasets and stats for nerds. [Live here](https://ukuleletuesday.streamlit.app/).
 
 **[Break Page](https://github.com/UkuleleTuesday/break-page)** - For when we need a break.
 
